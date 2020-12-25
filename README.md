@@ -1,2 +1,2 @@
 # Registration_and_Enter
-Registration_and_Enter
+Activity_and_Intent
